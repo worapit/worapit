@@ -11,7 +11,7 @@ Let’s connect and create something awesome! ✨
 
 - 👯 I’m looking to collaborate on **UX/UI design projects with social impact**
 
-- 👨‍💻 All of my UX/UI projects are available at [w0rapit.vercel.app](w0rapit.vercel.app)
+- 👨‍💻 All of my UX/UI projects are available at [w0rapit.vercel.app](https://w0rapit.vercel.app/)
 
 - 📫 How to reach me **worapit.m@gmail.com**
 
