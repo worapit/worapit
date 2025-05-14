@@ -18,7 +18,6 @@ Let’s connect and create something awesome! ✨
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/worapitcha muangyot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="worapitcha muangyot" height="30" width="40" /></a>
-<a href="https://fb.com/worapitcha muangyot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="worapitcha muangyot" height="30" width="40" /></a>
 <a href="https://instagram.com/w0rapit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w0rapit" height="30" width="40" /></a>
 </p>
 
